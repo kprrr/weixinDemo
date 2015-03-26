@@ -1,0 +1,5 @@
+1.头部导入
+<script src="js/wxpay.js<%=v%>"></script>
+2.支付点击事件
+//预支付
+3.将WeixinPayAction类加上去
